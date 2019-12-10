@@ -1,5 +1,5 @@
 #!/bin/bash
-
+pip install cassandra-driver
 service sshd start
 service cassandra start
 
